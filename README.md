@@ -1,2 +1,2 @@
-# renpy-notes
-renpy issues
+# blog
+本来用于记录掉过的renpy坑，现在干脆改成博客。
